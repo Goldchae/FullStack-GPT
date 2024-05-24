@@ -8,11 +8,10 @@ st.set_page_config(
 
 st.markdown(
 """
-# Hello!
+# 은체의 GPT 친구들
 
-Welcome to my FullstackGPT Portfolio!
-            
-Here are the apps I made:
+GPT - Langchain 기반 앱
+        
 
 - [ ] [DocumentGPT](/DocumentGPT)
 - [ ] [PrivateGPT](/PrivateGPT)
